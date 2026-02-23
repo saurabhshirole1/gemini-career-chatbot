@@ -1,0 +1,48 @@
+2026-02-23 11:26:30,375 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-23 11:26:42,495 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 11:26:42,502 - INFO - User Input: how to become software engineer
+2026-02-23 11:26:42,502 - INFO - Response Time: 12.13 seconds
+2026-02-23 11:32:17,724 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-23 11:32:20,898 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 11:32:20,900 - INFO - User Input: hi
+2026-02-23 11:32:20,901 - INFO - Response Time: 3.18 seconds
+2026-02-23 11:32:46,341 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-23 11:32:47,855 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 11:32:47,856 - INFO - User Input: whats your name?
+2026-02-23 11:32:47,856 - INFO - Response Time: 1.51 seconds
+2026-02-23 11:33:03,520 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-23 11:33:05,469 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 11:33:05,470 - INFO - User Input: okay
+2026-02-23 11:33:05,471 - INFO - Response Time: 1.95 seconds
+2026-02-23 11:33:38,967 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-23 11:33:41,819 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 11:33:41,821 - INFO - User Input: i want is become army officer
+2026-02-23 11:33:41,821 - INFO - Response Time: 2.85 seconds
+2026-02-23 11:34:32,008 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-23 11:34:45,923 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 11:34:45,926 - INFO - User Input: than how to become deep learning engineer
+2026-02-23 11:34:45,926 - INFO - Response Time: 13.92 seconds
+2026-02-23 11:36:37,509 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-23 11:36:41,626 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 11:36:41,628 - INFO - User Input: yes
+2026-02-23 11:36:41,629 - INFO - Response Time: 4.12 seconds
+2026-02-23 11:37:26,512 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-23 11:37:31,748 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 11:37:31,750 - INFO - User Input: which language is required 
+2026-02-23 11:37:31,750 - INFO - Response Time: 5.24 seconds
+2026-02-23 11:40:30,319 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-23 11:40:33,673 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 11:40:33,674 - INFO - User Input: hi
+2026-02-23 11:40:33,675 - INFO - Response Time: 3.36 seconds
+2026-02-23 14:09:45,210 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-23 14:09:48,815 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 14:09:48,819 - INFO - User Input: hi
+2026-02-23 14:09:48,820 - INFO - Response Time: 3.61 seconds
+2026-02-23 14:10:19,862 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-23 14:10:24,732 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 14:10:24,733 - INFO - User Input: i am a jobsearkar
+2026-02-23 14:10:24,734 - INFO - Response Time: 4.87 seconds
+2026-02-23 14:10:57,929 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-23 14:11:03,454 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-23 14:11:03,455 - INFO - User Input: i am i fresher computer science graduate
+2026-02-23 14:11:03,456 - INFO - Response Time: 5.53 seconds
